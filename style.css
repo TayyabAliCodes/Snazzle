@@ -186,7 +186,7 @@ body{
     height: 48px;
     margin-right: 8px;
     border-radius: 24px;
-    background: url(media/snazzla-appstore.webp) 50% no-repeat var(--black);
+    background: url(snazzla-appstore.webp) 50% no-repeat var(--black);
     background-size: 116px auto;
 }
 .google-logo {
@@ -194,7 +194,7 @@ body{
     width: 160px;
     height: 48px;
     border-radius: 24px;
-    background: url(media/snazzla-google.webp) 50% no-repeat var(--black);
+    background: url(snazzla-google.webp) 50% no-repeat var(--black);
     background-size: 116px auto;
 }
 .flag-icon a{
@@ -579,7 +579,7 @@ body{
     color: var(--brown);
 }
 .section-box-img{
-    background-image: url(media/section-box.png);
+    background-image: url(section-box.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     height: 158px;
@@ -670,7 +670,7 @@ body{
 }
 .card-bg{
     background-color: #FFF8DC;
-    background-image: url(media/card-bg.avif);
+    background-image: url(card-bg.avif);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: auto 100%;
@@ -716,7 +716,7 @@ body{
 }
 .card-1{
     background-color: #FFF8DC;
-    background-image: url(media/card-1.avif);
+    background-image: url(card-1.avif);
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
@@ -942,17 +942,17 @@ body{
     gap: 29px;
 }
 .color-card{
-    background: url(media/color-card-2.webp) center center / 100% no-repeat;
+    background: url(color-card-2.webp) center center / 100% no-repeat;
     padding: 12px;
 }
 .color-card2{
-    background: url(media/color-card1.webp) center center / 100% no-repeat;
+    background: url(color-card1.webp) center center / 100% no-repeat;
 }
 .color-card3{
-    background: url(media/color-card3.webp) center center / 100% no-repeat;
+    background: url(color-card3.webp) center center / 100% no-repeat;
 }
 .color-card5{
-    background: url(media/color-card4.webp) center center / 100% no-repeat;
+    background: url(color-card4.webp) center center / 100% no-repeat;
 }
 .color-card h2{
     width: 190px;
@@ -1237,7 +1237,7 @@ body{
     grid-template-columns: repeat(7,1fr);
 }
 .sign-bg{
-    background-image: url(media/sign-pic.avif);
+    background-image: url(sign-pic.avif);
     height: 400px;
 }
 .business-content h1,
@@ -1304,7 +1304,7 @@ body{
 .bus-pic2 ,
 .bus-pic1,
 .business-info{
-    background-image: url(media/business1.avif);
+    background-image: url(business1.avif);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1342,7 +1342,7 @@ body{
     margin: 0 32px 32px;
 }
 .bus-pic1 {
-    background-image: url(media/business2.avif);
+    background-image: url(business2.avif);
     height: 265px;
     background-color: none;
 }
@@ -1350,7 +1350,7 @@ body{
     color: var(--brown);
 }
 .bus-pic2 {
-    background-image: url(media/business3.avif);
+    background-image: url(business3.avif);
     height: 196px;
     margin-top: 32px;   
 }
